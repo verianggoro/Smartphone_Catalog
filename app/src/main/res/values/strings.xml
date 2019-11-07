@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Smartphone Catalog</string>
+    <string-array name="nama_hp">
+        <item>Samsung Galaxy S10</item>
+        <item>Samsung Note 10</item>
+        <item>Xiaomi Mi 9</item>
+    </string-array>
+    <array name="icon_hp">
+    </array>
+</resources>
